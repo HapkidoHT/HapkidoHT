@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cursando Análise e Desenvolvimento de Sistemas - UNINTER, <br>Cursando Front-end Development - ORIGAMID<br>Formado em Automação Industrial - Universidade Positivo<br>Pós-graduado em Engenharia de Manutenção e Sistemas 4.0 - UniSenai
+Cursando Análise e Desenvolvimento de Sistemas - UNINTER <br>Cursando Front-end Development - ORIGAMID<br>Formado em Automação Industrial - Universidade Positivo<br>Pós-graduado em Engenharia de Manutenção e Sistemas 4.0 - UniSenai
 
 
 # 💻 Tech Stack:
