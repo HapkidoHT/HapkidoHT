@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas, apaixonado por programação e sua capacidade transformadora. Busco constantemente aprimorar minhas habilidades técnicas e conhecimentos para me tornar um profissional altamente competente e comprometido com soluções inovadoras e eficientes.<br>
+Sou um Analista de Dados, que busca constantemente aprimorar as minhas habilidades técnicas e conhecimentos para me tornar um profissional altamente competente e comprometido com soluções inovadoras e eficientes.<br>
 
-Cursando Análise e Desenvolvimento de Sistemas - UNINTER <br>Cursando Front-end Development - ORIGAMID<br>Formado em Automação Industrial - Universidade Positivo<br>Pós-graduado em Engenharia de Manutenção e Sistemas 4.0 - UniSenai
+Formado em Automação Industrial - Universidade Positivo<br>Pós-graduado em Engenharia de Manutenção e Sistemas 4.0 - UniSenai<br>Cursando Análise e Desenvolvimento de Sistemas - UNINTER <br>Cursando Data Science - Alura
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/douglas-degodoi/)
 
