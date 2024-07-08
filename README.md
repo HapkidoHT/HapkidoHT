@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Sou um Analista de Dados, que busca constantemente aprimorar as minhas habilidades técnicas e conhecimentos para me tornar um profissional altamente competente e comprometido com soluções inovadoras e eficientes.<br>
+Analista de Dados,busco constantemente aprimorar as minhas habilidades técnicas e conhecimentos para me tornar um profissional altamente competente e comprometido com soluções inovadoras e eficientes.<br>
 
 Formado em Automação Industrial - Universidade Positivo<br>Pós-graduado em Engenharia de Manutenção e Sistemas 4.0 - UniSenai<br>Cursando Análise e Desenvolvimento de Sistemas - UNINTER <br>Cursando Data Science - Alura
 
@@ -19,9 +19,6 @@ Formado em Automação Industrial - Universidade Positivo<br>Pós-graduado em En
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HapkidoHT&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HapkidoHT&icon=0&color=0)](https://visitcount.itsvg.in)
