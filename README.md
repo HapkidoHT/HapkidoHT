@@ -2,7 +2,7 @@
 
 Analista de Dados,busco constantemente aprimorar as minhas habilidades técnicas e conhecimentos para me tornar um profissional altamente competente e comprometido com soluções inovadoras e eficientes.<br>
 
-Formado em Automação Industrial - Universidade Positivo<br>Pós-graduado em Engenharia de Manutenção e Sistemas 4.0 - UniSenai<br>Cursando Análise e Desenvolvimento de Sistemas - UNINTER <br>Cursando Data Science - Alura
+Formado em Automação Industrial - Universidade Positivo<br>Pós-graduado em Engenharia de Manutenção e Sistemas 4.0 - UniSenai<br>Cursando Pós-graduação em Inteligência Artificial e Machine Learning pela Universidade Positivo <br>Cursando Data Science - Alura
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/douglas-degodoi/)
 
