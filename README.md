@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Analista de Dados,busco constantemente aprimorar as minhas habilidades técnicas e conhecimentos para me tornar um profissional altamente competente e comprometido com soluções inovadoras e eficientes.<br>
+Cientista de dados,busco constantemente aprimorar as minhas habilidades técnicas e conhecimentos para me tornar um profissional altamente competente e comprometido com soluções inovadoras e eficientes.<br>
 
 Formado em Automação Industrial - Universidade Positivo<br>Pós-graduado em Engenharia de Manutenção e Sistemas 4.0 - UniSenai<br>Cursando Pós-graduação em Inteligência Artificial e Machine Learning - Universidade Positivo <br>Cursando Data Science - Alura
 
