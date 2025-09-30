@@ -2,7 +2,7 @@
 
 Cientista de dados.<br>
 
-Formado em Automação Industrial - Universidade Positivo<br>Pós-graduado em Engenharia de Manutenção e Sistemas 4.0 - UniSenai<br>Cursando Pós-graduação em Inteligência Artificial e Machine Learning - Universidade Positivo <br>Cursando Data Science - Alura
+Com formação em Automação Industrial e pós-graduações em Engenharia de Manutenção 4.0 e IA & Machine Learning, minha paixão é resolver problemas complexos. Atuo como Cientista de Dados, criando soluções que otimizam processos e geram valor através da análise de dados e desenvolvimento de automações.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/douglas-degodoi/)
 
