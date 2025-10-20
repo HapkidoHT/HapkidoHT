@@ -62,25 +62,12 @@ Com formação em **Automação Industrial** e pós-graduações em **Engenharia
 
 ---
 
-## 📊 GitHub Insights
-
-![](https://github-readme-stats.vercel.app/api?username=HapkidoHT&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=HapkidoHT&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HapkidoHT&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HapkidoHT&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## 📫 Connect With Me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/douglas-degodoi/)
 [![](https://visitcount.itsvg.in/api?id=HapkidoHT&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
-> “Data isn’t just numbers — it’s the story behind every great decision.”  
+> “Data isn’t just numbers it’s the story behind every great decision.”  
 > — *Douglas Godoi*
 
