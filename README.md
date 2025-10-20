@@ -5,7 +5,7 @@
 Sou **Cientista de Dados** apaixonado por resolver problemas complexos e transformar dados em decisões inteligentes.  
 Com formação em **Automação Industrial** e pós-graduações em **Engenharia de Manutenção 4.0** e **Inteligência Artificial & Machine Learning**, atuo no desenvolvimento de **modelos preditivos, automações e soluções de análise de dados** que otimizam processos e geram valor real para os negócios.
 
-📈 Tenho experiência em todo o ciclo de dados — da coleta e tratamento à modelagem e visualização — com foco em performance, precisão e usabilidade.
+📈 Tenho experiência em todo o ciclo de dados, da coleta e tratamento à modelagem e visualização, com foco em performance, precisão e usabilidade.
 
 ---
 
